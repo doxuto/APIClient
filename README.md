@@ -1,6 +1,6 @@
 [![CI](https://github.com/doxuto/APIClient/actions/workflows/ci.yml/badge.svg)](https://github.com/doxuto/APIClient/actions/workflows/ci.yml)
 [![Swift](https://img.shields.io/badge/Swift-5.5_|_5.6_|_5.7_|_5.8_|_5.9-red)](https://img.shields.io/badge/Swift-5.5_5.6_5.7_5.8_5.9-red)
-[![Platforms](https://img.shields.io/badge/Platforms-macOS_|_iOS_red)](https://img.shields.io/badge/Platforms-macOS_iOS_-red)
+[![Platforms](https://img.shields.io/badge/Platforms-macOS_|_iOS_)](https://img.shields.io/badge/Platforms-macOS_iOS_red)
 ### README.md
 
 ```markdown
